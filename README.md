@@ -1,12 +1,10 @@
 ## Hi there 👋
----
 
 I'm a Telecomunication's Engineer and Computer Science  from Bolivia, actualy i develop in angular with angular material in frontend and Spring Boot with Java
 
 Currently i'm software engineer in @Ende_tecnologias 
 
 ## My Information
----
 
 * Look at my Resume in  :computer: [Linkedin](https://www.linkedin.com/in/alextoro1185/).
 * follow me in :page_facing_up: [Twitter](https://twitter.com/alejandro_ro11).
