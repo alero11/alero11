@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Telecomunication's Engineer and Computer Science  from Bolivia, actualy i develop in angular with angular material in frontend and Spring Boot with Java
+I'm a Telecomunication's Engineer and Computer Science  from Bolivia, actually i'm developer in angular with angular material (frontend) and Spring Boot with Java (backend)
 
 Currently i'm software engineer in @Ende_tecnologias 
 
